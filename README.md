@@ -11,7 +11,7 @@ ZORA+DC              |    3.861       |
 IORA+DC              |    3.859       |
 FHI-AIMS             |                |
 NR                   |    3.093       |
-ZORA                 |    3.303  [↗️](a/b/c.png){:target="_blank"}   |
+ZORA                 |    3.303  [↗️](a/b/c.png){:target="_blank"}   <a href="a/b/c.png" target="_blank">↗️</a>|
 
 
 
